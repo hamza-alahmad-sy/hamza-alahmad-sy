@@ -60,9 +60,9 @@ I enjoy working across the entire development stack, from designing intuitive us
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 💬 Chatting App
+### Chatting App
 
 A modern text and multimedia chat application built for real-time communication.
 
@@ -83,7 +83,7 @@ A modern text and multimedia chat application built for real-time communication.
 
 ---
 
-### 🤖 AI Copper Predictor
+### AI Copper Predictor
 
 An AI-powered application that predicts copper prices for the following day using machine learning techniques.
 
@@ -102,7 +102,7 @@ An AI-powered application that predicts copper prices for the following day usin
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 ✔ ASP.NET Core
@@ -116,7 +116,7 @@ An AI-powered application that predicts copper prices for the following day usin
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 
 ```markdown
@@ -127,7 +127,7 @@ An AI-powered application that predicts copper prices for the following day usin
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 * Build more full-stack applications
 * Master ASP.NET Core ecosystem
@@ -138,14 +138,13 @@ An AI-powered application that predicts copper prices for the following day usin
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * GitHub: https://github.com/hamza-alahmad-sy
 
 ---
 
-### 💡 Favorite Quote
+### Favorite Quote
 
 > "The best way to learn programming is by building projects and solving problems consistently."
-
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
