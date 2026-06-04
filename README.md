@@ -2,30 +2,30 @@
 
 ### Aspiring Full-Stack Developer passionate about building scalable web applications.
 
-🎓 Computer Science Student
-💻 Full-Stack Developer in training
-🚀 Passionate about building modern web applications and solving real-world problems
-📚 Currently learning System Design, ASP.NET Core, Cloud Computing, Docker, Microservices, and AI/ML
-☕ Fueled by coffee, coding, and continuous learning
+- Computer Science Student
+- Full-Stack Developer in training
+- Passionate about building modern web applications and solving real-world problems
+- Currently learning System Design, ASP.NET Core, Cloud Computing, Docker, Microservices, and AI/ML
+- Fueled by coffee, coding, and continuous learning
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a student and aspiring Full-Stack Developer with a strong interest in building scalable and efficient web applications.
 
 I enjoy working across the entire development stack, from designing intuitive user interfaces to developing robust backend services and databases. I am constantly exploring new technologies and improving my software engineering skills through projects and problem-solving.
 
-* 🌱 Learning: ASP.NET Core, System Design, Docker, Cloud (AWS/Azure), Microservices, AI/ML
-* 💡 Interested in Full-Stack Development and Software Engineering
-* 🧩 Competitive Programming & Problem Solving Enthusiast
-* 🎮 Gaming Lover
-* 🎵 Music Enthusiast
-* ☕ Coffee Enjoyer
+*  Learning: ASP.NET Core, System Design, Docker, Cloud (AWS/Azure), Microservices, AI/ML
+*  Interested in Full-Stack Development and Software Engineering
+*  Competitive Programming & Problem Solving Enthusiast
+*  Gaming Lover
+*  Music Enthusiast
+*  Coffee Enjoyer
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
